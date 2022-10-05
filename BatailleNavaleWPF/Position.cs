@@ -4,7 +4,7 @@ using System.Text;
 
 namespace BatailleNavale
 {
-    class Position
+    public class Position
     {
         public int Ligne { get; }
         public int Colonne { get; }

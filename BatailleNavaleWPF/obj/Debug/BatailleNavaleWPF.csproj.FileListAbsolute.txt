@@ -59,3 +59,19 @@ C:\Users\e\OneDrive - Cégep Limoilou\svn\Cours\420-FAF POO 2\VisualStudio\Batai
 C:\Users\e\OneDrive - Cégep Limoilou\svn\Cours\420-FAF POO 2\VisualStudio\BatailleNavaleWPF_4.3\BatailleNavaleWPF\obj\Debug\BatailleNavaleWPF.csproj.CoreCompileInputs.cache
 C:\Users\e\OneDrive - Cégep Limoilou\svn\Cours\420-FAF POO 2\VisualStudio\BatailleNavaleWPF_4.3\BatailleNavaleWPF\obj\Debug\BatailleNavaleWPF.exe
 C:\Users\e\OneDrive - Cégep Limoilou\svn\Cours\420-FAF POO 2\VisualStudio\BatailleNavaleWPF_4.3\BatailleNavaleWPF\obj\Debug\BatailleNavaleWPF.pdb
+E:\Développement Informatique\Exercices\Exercices 2.4\BatailleNavaleWPF\BatailleNavaleWPF\bin\Debug\BatailleNavaleWPF.exe.config
+E:\Développement Informatique\Exercices\Exercices 2.4\BatailleNavaleWPF\BatailleNavaleWPF\bin\Debug\BatailleNavaleWPF.exe
+E:\Développement Informatique\Exercices\Exercices 2.4\BatailleNavaleWPF\BatailleNavaleWPF\bin\Debug\BatailleNavaleWPF.pdb
+E:\Développement Informatique\Exercices\Exercices 2.4\BatailleNavaleWPF\BatailleNavaleWPF\obj\Debug\BatailleNavaleWPF.csproj.AssemblyReference.cache
+E:\Développement Informatique\Exercices\Exercices 2.4\BatailleNavaleWPF\BatailleNavaleWPF\obj\Debug\BatailleNavaleWPF.csproj.SuggestedBindingRedirects.cache
+E:\Développement Informatique\Exercices\Exercices 2.4\BatailleNavaleWPF\BatailleNavaleWPF\obj\Debug\MainWindow.g.cs
+E:\Développement Informatique\Exercices\Exercices 2.4\BatailleNavaleWPF\BatailleNavaleWPF\obj\Debug\App.g.cs
+E:\Développement Informatique\Exercices\Exercices 2.4\BatailleNavaleWPF\BatailleNavaleWPF\obj\Debug\BatailleNavaleWPF_MarkupCompile.cache
+E:\Développement Informatique\Exercices\Exercices 2.4\BatailleNavaleWPF\BatailleNavaleWPF\obj\Debug\BatailleNavaleWPF_MarkupCompile.lref
+E:\Développement Informatique\Exercices\Exercices 2.4\BatailleNavaleWPF\BatailleNavaleWPF\obj\Debug\MainWindow.baml
+E:\Développement Informatique\Exercices\Exercices 2.4\BatailleNavaleWPF\BatailleNavaleWPF\obj\Debug\BatailleNavaleWPF.g.resources
+E:\Développement Informatique\Exercices\Exercices 2.4\BatailleNavaleWPF\BatailleNavaleWPF\obj\Debug\BatailleNavaleWPF.Properties.Resources.resources
+E:\Développement Informatique\Exercices\Exercices 2.4\BatailleNavaleWPF\BatailleNavaleWPF\obj\Debug\BatailleNavaleWPF.csproj.GenerateResource.cache
+E:\Développement Informatique\Exercices\Exercices 2.4\BatailleNavaleWPF\BatailleNavaleWPF\obj\Debug\BatailleNavaleWPF.csproj.CoreCompileInputs.cache
+E:\Développement Informatique\Exercices\Exercices 2.4\BatailleNavaleWPF\BatailleNavaleWPF\obj\Debug\BatailleNavaleWPF.exe
+E:\Développement Informatique\Exercices\Exercices 2.4\BatailleNavaleWPF\BatailleNavaleWPF\obj\Debug\BatailleNavaleWPF.pdb
