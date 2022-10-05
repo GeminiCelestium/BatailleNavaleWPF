@@ -3,6 +3,7 @@ using System;
 
 namespace BatailleNavale
 {
+    // Classe Navire abstraite car on ne veut pas l'instancier, implémente l'interface INavire...
     public abstract class Navire : INavire
     {
         public int Longueur { get; }
@@ -11,6 +12,7 @@ namespace BatailleNavale
 
         public readonly Case[] cases;
 
+        // Constructeur de la classe...
         public Navire(int longueur, Case[] carres)
         {
             Longueur = longueur;
@@ -23,6 +25,7 @@ namespace BatailleNavale
             }
         }
 
+        // Méthode qui vérifie si le navire a complètement été touché, donc coulé...
         public bool EstCoule()
         {
             foreach (Case carre in cases)
